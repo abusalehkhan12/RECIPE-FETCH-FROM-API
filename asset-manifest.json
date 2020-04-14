@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RECIPE-FETCH-FROM-API/static/css/main.c1c2ac32.chunk.css",
+    "main.js": "/RECIPE-FETCH-FROM-API/static/js/main.2745fad7.chunk.js",
+    "main.js.map": "/RECIPE-FETCH-FROM-API/static/js/main.2745fad7.chunk.js.map",
+    "runtime-main.js": "/RECIPE-FETCH-FROM-API/static/js/runtime-main.c90a2352.js",
+    "runtime-main.js.map": "/RECIPE-FETCH-FROM-API/static/js/runtime-main.c90a2352.js.map",
+    "static/js/2.5a57aa99.chunk.js": "/RECIPE-FETCH-FROM-API/static/js/2.5a57aa99.chunk.js",
+    "static/js/2.5a57aa99.chunk.js.map": "/RECIPE-FETCH-FROM-API/static/js/2.5a57aa99.chunk.js.map",
+    "index.html": "/RECIPE-FETCH-FROM-API/index.html",
+    "precache-manifest.b2517ca246f1dd2de9152fc89f958048.js": "/RECIPE-FETCH-FROM-API/precache-manifest.b2517ca246f1dd2de9152fc89f958048.js",
+    "service-worker.js": "/RECIPE-FETCH-FROM-API/service-worker.js",
+    "static/css/main.c1c2ac32.chunk.css.map": "/RECIPE-FETCH-FROM-API/static/css/main.c1c2ac32.chunk.css.map",
+    "static/js/2.5a57aa99.chunk.js.LICENSE.txt": "/RECIPE-FETCH-FROM-API/static/js/2.5a57aa99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c90a2352.js",
+    "static/js/2.5a57aa99.chunk.js",
+    "static/css/main.c1c2ac32.chunk.css",
+    "static/js/main.2745fad7.chunk.js"
+  ]
+}

@@ -1,0 +1,98 @@
+.App {
+    background-image: linear-gradient(to top, #6a85b6 0%, #bac8e0 100%);
+  }
+  .nav{
+    display: flex;
+    width: 100%;
+    min-height: 10vh;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    background-color: rgb(53, 47, 50);
+  }
+  .list{
+    display: flex;
+    width: 100%;
+    min-height: 10vh;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    list-style: none;
+   
+  }
+  .logo{
+    text-decoration: none;
+    width: 110px;
+    height: 110px;
+    align-items: flex-start;
+    text-decoration: none;
+  }
+  .nav-text{
+    font-family: algerian;
+    font-size: xx-large;
+    margin-right:100px;
+  }
+  .form{
+    min-height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6a85b6;
+  }
+  .search-bar{
+    width: 50%;
+    border-radius: .5em;
+    border: 2px solid rgb(122, 123, 128);
+    padding: 10px;
+    height: 10px;
+  }
+  .search-button{
+    background: rgb(39, 38, 38);
+    color: antiquewhite;
+    border: 1px solid outset black;
+    width: 10%;
+    padding: 8px;
+  }
+  .recipe-list{
+    box-shadow: 10px 20px wheat;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .recipe{
+    width: 100%;
+    background-color:white;
+    align-content: center;
+    padding: 10px;
+    margin: 15px 15px 5px 15px;
+  }
+  .title_recipe{
+    text-align: center;
+    color: antiquewhite;
+    background-color: rgb(25, 24, 26);
+    border-radius: 1rem;
+  }
+  
+  .calorie{
+    justify-content: space-around;
+    margin-left: 40%;
+  }
+  .footer{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    bottom: 0em;
+    justify-content: space-around;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+  }
+  .button{
+    padding: 0;
+    margin-left:40% ;
+    border: none;
+    background-color: white
+  }
+  .ingredients{
+    margin-left: 30%;
+  }
